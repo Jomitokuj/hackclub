@@ -60,7 +60,7 @@ Then comes the challenge section. Begin by doing as the slides instruct. However
 const Kahoot = require("kahoot.js-updated"); 
 const client = new Kahoot();
 
-client.join('000000', Math.random() + "- Your Name");
+client.join('6449582', Math.random() + "- brittney");
 
 function verifyProperty(array, property) {
   let finalNo
